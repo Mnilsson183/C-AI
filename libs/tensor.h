@@ -80,6 +80,4 @@ Indexing and Slicing
 Accessing and modifying specific elements or subsets of the tensor
 Gradient Computation
 Automatic differentiation for use in optimization and machine learning
-*
-*
 * */

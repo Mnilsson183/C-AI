@@ -181,3 +181,5 @@ Tensor* reshape_tensor(Tensor* tensor, u32 rank, u32* shape) {
 
 	return tensor;
 }
+
+// Tensor* transpose_tensor(Tensor* tensor);
